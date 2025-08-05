@@ -12,5 +12,5 @@
 
 📫 How to reach me: [rathodsuyash52@gmail.com]
 
-⚡ Fun fact: I can listen to lo-fi beats for 8 hours straight and still write clean, bug-free code... most of the time 😄
+⚡ Fun fact: I can listen to full vibe beats for 8 hours straight and still write clean, bug-free code... most of the time 😄
 
