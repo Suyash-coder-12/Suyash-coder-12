@@ -23,7 +23,9 @@
 🌱 I’m currently learning Data Structures and Algorithms in C++, focusing on performance optimization and competitive coding patterns.
 
 - Languages ![Languages](https://skillicons.dev/icons?i=js,ts,py,java,cpp,html,css)
+  
 - Frameworks ![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,django)
+  
 - Tools ![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux)
 
 
