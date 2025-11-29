@@ -33,7 +33,7 @@
   
 - Frameworks ![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,django)
   
-- Tools ![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux)
+- Tools ![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio,docker,linux)
 
 
 👯 I’m looking to collaborate on open-source projects related to music tech, AI-driven recommendations, or clean, scalable front-end design systems.
@@ -45,12 +45,3 @@
 📫 How to reach me: [rathodsuyash52@gmail.com]
 
 ⚡ Fun fact: I can listen to full vibe beats for 8 hours straight and still write clean, bug-free code... most of the time 😄
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
