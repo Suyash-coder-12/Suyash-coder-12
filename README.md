@@ -25,7 +25,7 @@
 
 ## Hi there 👋
 
-🔭 I’m currently working on BeatsVibe
+🔭 I’m currently working on BeatsVibe Technologies, NeuroNova and NeuroSync
 
 🌱 I’m currently learning Data Structures and Algorithms in C++, focusing on performance optimization and competitive coding patterns.
 
