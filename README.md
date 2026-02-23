@@ -42,6 +42,6 @@
 
 💬 Ask me about C++, JavaScript, building with React, or how to go from an idea to a working prototype quickly. 
 
-📫 How to reach me: [rathodsuyash52@gmail.com]
+📫 How to reach me: [rathodsuyash52@gmail.com] , [admin@beatsvibetechnologies.info]
 
 ⚡ Fun fact: I can listen to full vibe beats for 8 hours straight and still write clean, bug-free code... most of the time 😄
