@@ -22,26 +22,23 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
-
-## Hi there 👋
-
-🔭 I’m currently working on BeatsVibe Technologies, NeuroNova and NeuroSync
-
-🌱 I’m currently learning Data Structures and Algorithms in C++, focusing on performance optimization and competitive coding patterns.
-
-- Languages ![Languages](https://skillicons.dev/icons?i=js,ts,py,java,cpp,html,css)
-  
-- Frameworks ![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,django)
-  
-- Tools ![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio,docker,linux)
+<h1>Hii 👋 I'm Suyash Rathod</h1>
+# 💫 About Me:
+I'm Currently Working on Android App Development<br>I'm Currently Learning React js and node js<br>
 
 
-👯 I’m looking to collaborate on open-source projects related to music tech, AI-driven recommendations, or clean, scalable front-end design systems.
 
-🤔 I’m looking for help with scaling real-time systems, handling audio data pipelines, and deploying lightweight backends for live projects.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Suyash-coder-12&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Suyash-coder-12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyash-coder-12&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-💬 Ask me about C++, JavaScript, building with React, or how to go from an idea to a working prototype quickly. 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Suyash-coder-12&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-📫 How to reach me: [rathodsuyash52@gmail.com] , [admin@beatsvibetechnologies.info]
+---
+[![](https://visitcount.itsvg.in/api?id=Suyash-coder-12&icon=2&color=8)](https://visitcount.itsvg.in)
 
-⚡ Fun fact: I can listen to full vibe beats for 8 hours straight and still write clean, bug-free code... most of the time 😄
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
