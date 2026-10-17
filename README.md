@@ -4,7 +4,7 @@
   <h1>Hi there 👋, I'm Suyash Rathod</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Android+App+Developer;AI+DevOps+%26+LLM+Enthusiast;Founder+@+BeatsVibe+Tech;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Android+App+Developer;AI+DevOps+%26+LLM+Enthusiast;Founder+@+BeatsVibe+Technologies;Always+learning+new+things" alt="Typing SVG" />
   </a>
 </div>
 
