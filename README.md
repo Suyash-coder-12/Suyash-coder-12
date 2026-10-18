@@ -4,7 +4,7 @@
   <h1>Hi there 👋, I'm Suyash Rathod</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Android+App+Developer;AI+DevOps+%26+LLM+Enthusiast;Founder+@+BeatsVibe+Technologies;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Android+App+Developer;AI+DevOps+%26+LLM+Enthusiast;Founder+@+BeatsVibe+Tech;Always+learning+new+things" alt="Typing SVG" />
   </a>
 </div>
 
@@ -117,7 +117,7 @@
 
 <div align="center">
     <a href="https://github.com/Suyash-coder-12">
-      <img alt="Suyash's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Suyash-coder-12&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+      <img alt="Suyash's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Suyash-coder-12&theme=react-dark&hide_border=true&custom_title=Activity%20Graph" />
     </a>
 </div>
 
