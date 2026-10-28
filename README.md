@@ -1,32 +1,32 @@
 <div align="center">
 
-  <!-- 🌊 LIQUID MATTE WHITE HEADER -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:f1f5f9,100:e2e8f0&height=200&section=header&text=Suyash%20Rathod&fontSize=52&fontColor=0f172a&fontAlignY=35&desc=Founder%20@%20BeatsVibe%20Tech%20%E2%80%A2%20Android%20%26%20AI%20DevOps&descAlignY=58&descSize=18&descColor=475569" alt="Suyash Rathod Banner" />
+  <!-- 🌊 LIQUID MATTE WHITE HEADER (Fully URL-Encoded & XML-Safe) -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:f1f5f9,100:e2e8f0&height=200&section=header&text=Suyash%20Rathod&fontSize=52&fontColor=0f172a&fontAlignY=35&desc=Founder%20at%20BeatsVibe%20Tech%20%7C%20Android%20%2B%20AI%20DevOps&descAlignY=58&descSize=18&descColor=475569" alt="Suyash Rathod Banner" />
 
   <!-- ⌨️ FROSTED SLATE TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=334155&center=true&vCenter=true&width=650&lines=Android+App+Developer+%26+Jetpack+Compose+Crafter;AI+DevOps+%26+LLM+Architecture+Enthusiast;Founder+%26+Executive+Director+@+BeatsVibe+Tech;Always+Exploring+%26+Shipping+Next-Gen+Products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=334155&center=true&vCenter=true&width=650&lines=Android+App+Developer+%2B+Jetpack+Compose;AI+DevOps+%2B+LLM+Architecture+Enthusiast;Founder+%2B+Executive+Director+at+BeatsVibe+Tech;Always+Exploring+%2B+Shipping+Next-Gen+Products" alt="Typing SVG" />
   </a>
 
   <br><br>
 
-  <!-- 🧊 MATTE GLASS PILL BADGES (SOCIALS + TELEMETRY) -->
+  <!-- 🧊 MATTE GLASS PILL BADGES -->
   <p align="center">
     <a href="https://www.linkedin.com/in/suyashrathod">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=f8fafc&color=e2e8f0" height="30" alt="LinkedIn" />
-    </a>&nbsp;
+    </a>
     <a href="https://x.com/rathodsuyash52?t=IxCX6I1Y623ASFBTEPlknQ&s=09">
-      <img src="https://img.shields.io/badge/Twitter%20%2F%20X-0f172a?style=for-the-badge&logo=x&logoColor=0f172a&labelColor=f8fafc&color=e2e8f0" height="30" alt="X" />
-    </a>&nbsp;
+      <img src="https://img.shields.io/badge/X_Twitter-0f172a?style=for-the-badge&logo=x&logoColor=0f172a&labelColor=f8fafc&color=e2e8f0" height="30" alt="X" />
+    </a>
     <a href="https://www.instagram.com/suyashhhh______">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=f8fafc&color=e2e8f0" height="30" alt="Instagram" />
-    </a>&nbsp;
+    </a>
     <a href="https://github.com/Suyash-coder-12?tab=followers">
       <img src="https://img.shields.io/github/followers/Suyash-coder-12?style=for-the-badge&logo=github&logoColor=0f172a&label=Followers&labelColor=f8fafc&color=cbd5e1" height="30" alt="GitHub Followers" />
-    </a>&nbsp;
+    </a>
     <a href="https://github.com/Suyash-coder-12?tab=repositories">
-      <img src="https://img.shields.io/github/stars/Suyash-coder-12?style=for-the-badge&logo=starship&logoColor=f59e0b&label=Stars&labelColor=f8fafc&color=cbd5e1" height="30" alt="GitHub Stars" />
-    </a>&nbsp;
+      <img src="https://img.shields.io/github/stars/Suyash-coder-12?style=for-the-badge&logo=github&logoColor=f59e0b&label=Stars&labelColor=f8fafc&color=cbd5e1" height="30" alt="GitHub Stars" />
+    </a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Suyash-coder-12.Suyash-coder-12&left_color=%23f8fafc&right_color=%2394a3b8&left_text=Views" height="30" alt="Profile Views" />
   </p>
 
@@ -38,9 +38,7 @@
 <table align="center" width="100%">
   <tr>
     <td colspan="2" align="center">
-      <br>
-      <img src="https://img.shields.io/badge/✨%20EXECUTIVE%20PROFILE%20%26%20CURRENT%20FOCUS-f8fafc?style=for-the-badge&labelColor=e2e8f0&color=f8fafc&logoColor=0f172a" height="28" alt="About Header" />
-      <br><br>
+      <h3>✨ Executive Profile & Current Focus</h3>
     </td>
   </tr>
   <tr>
@@ -62,11 +60,7 @@
 <br>
 
 <!-- 🧊 GLASSMORPHIC BENTO CARD: TECH ARSENAL -->
-<div align="center">
-  <img src="https://img.shields.io/badge/💻%20FAVORITE%20TOOLS%20%26%20TECHNOLOGIES-f8fafc?style=for-the-badge&labelColor=e2e8f0&color=f8fafc" height="28" alt="Tech Stack Header" />
-</div>
-
-<br>
+<h3 align="center">💻 Favorite Tools & Technologies</h3>
 
 <div align="center">
   <table>
@@ -130,11 +124,7 @@
 <br>
 
 <!-- 📊 WHITE MATTE GLASS TELEMETRY CARDS -->
-<div align="center">
-  <img src="https://img.shields.io/badge/📊%20GITHUB%20TELEMETRY%20%26%20ACTIVITY-f8fafc?style=for-the-badge&labelColor=e2e8f0&color=f8fafc" height="28" alt="Stats Header" />
-</div>
-
-<br>
+<h3 align="center">📊 GitHub Telemetry & Activity</h3>
 
 <table align="center" width="100%">
   <tr>
