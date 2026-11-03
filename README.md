@@ -1,7 +1,8 @@
 <div align="center">
 
-  <!-- 🌊 SLEEK MODERN HEADER -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Suyash%20Rathod&fontSize=54&fontColor=f8fafc&fontAlignY=35&desc=Founder%20at%20BeatsVibe%20Tech%20%7C%20Android%20%26%20AI%20DevOps%20Engineer&descAlignY=58&descSize=18&descColor=94a3b8" alt="Suyash Rathod Banner" />
+  <!-- 🚀 HIGH-PERFORMANCE NATIVE HEADER (ZERO DEPENDENCY) -->
+  <h1 align="center">Hi 👋, I'm Suyash Rathod</h1>
+  <p align="center"><b>Founder at BeatsVibe Tech | Android & AI DevOps Engineer</b></p>
 
   <!-- ⌨️ DYNAMIC TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
@@ -10,7 +11,7 @@
 
   <br><br>
 
-  <!-- 🧊 SOCIAL & LIVE TELEMETRY PILLS (100% CDN BACKED) -->
+  <!-- 🧊 SOCIAL & LIVE TELEMETRY PILLS (CLOUDFLARE CDN) -->
   <p align="center">
     <a href="https://www.linkedin.com/in/suyashrathod">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
@@ -61,7 +62,7 @@
 
 <br>
 
-<!-- 🛠️ TECH ARSENAL (CLOUDFLARE CDN ICONS - ZERO DOWNTIME) -->
+<!-- 🛠️ TECH ARSENAL -->
 <h3 align="center">🛠️ Tech Arsenal & Tools</h3>
 
 <div align="center">
@@ -72,35 +73,30 @@
 
 <br>
 
-<!-- 📊 ZERO-FAIL GITHUB TELEMETRY & LIVE DAILY STREAK -->
-<h3 align="center">📊 Live GitHub Telemetry & Daily Streak</h3>
+<!-- 📊 GITHUB TELEMETRY & METRICS (100% RELIABLE SHIELDS API) -->
+<h3 align="center">📊 Live GitHub Telemetry & Stats</h3>
 
 <table align="center" width="100%">
   <tr>
-    <td width="48%" valign="middle" align="center">
-      <h4>⚡ Live Repository & Account Metrics</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Account-Suyash--coder--12-0f172a?style=flat-square&logo=github" alt="Account" />
-        <img src="https://img.shields.io/github/followers/Suyash-coder-12?style=flat-square&logo=github&label=Followers&color=2563eb" alt="Followers" />
-        <img src="https://img.shields.io/github/stars/Suyash-coder-12?style=flat-square&logo=github&label=Total%20Stars&color=f59e0b" alt="Stars" />
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Focus-Android%20%7C%20AI%20%7C%20DevOps-10b981?style=flat-square" alt="Focus" />
-        <img src="https://img.shields.io/badge/Status-Actively%20Shipping%20🔥-ef4444?style=flat-square" alt="Status" />
-      </p>
-      <sub><i>Metrics synced directly via GitHub API & Shields CDN</i></sub>
+    <td align="center" width="50%">
+      <p><b>⚡ Repository & Account Overview</b></p>
+      <img src="https://img.shields.io/github/issues/Suyash-coder-12?style=for-the-badge&logo=github&color=2563eb" alt="Open Issues" />
+      <img src="https://img.shields.io/github/pull-requests/Suyash-coder-12?style=for-the-badge&logo=github&color=10b981" alt="Pull Requests" />
+      <br><br>
+      <img src="https://img.shields.io/github/last-commit/Suyash-coder-12/Suyash-coder-12?style=for-the-badge&logo=git&color=f59e0b" alt="Last Commit" />
     </td>
-    <td width="52%" valign="middle" align="center">
-      <a href="https://github.com/Suyash-coder-12">
-        <img width="100%" src="https://streak-stats.demolab.com/?user=Suyash-coder-12&theme=slate&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
-      </a>
+    <td align="center" width="50%">
+      <p><b>🔥 Live Activity & Status</b></p>
+      <img src="https://img.shields.io/badge/Daily_Coding-Active_%🔥-ef4444?style=for-the-badge&logo=fire" alt="Coding Status" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Productivity-Shipping_Products-10b981?style=for-the-badge&logo=rocket" alt="Productivity" />
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- 🟩 INSTANT LIVE CONTRIBUTION CALENDAR (AUTO-UPDATES DAILY) -->
+<!-- 🟩 INSTANT LIVE CONTRIBUTION CALENDAR -->
 <h3 align="center">🟩 Daily Contribution Matrix</h3>
 
 <table align="center" width="100%">
@@ -114,8 +110,3 @@
     </td>
   </tr>
 </table>
-
-<!-- 🌊 FOOTER WAVE -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1e293b,100:0f172a&height=110&section=footer" alt="Footer Wave" />
-</div>
