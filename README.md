@@ -59,73 +59,58 @@
 
 <br>
 
-<!-- 🛠️ TECH ARSENAL (UNIFIED MODERN ICONS) -->
+<!-- 🛠️ TECH ARSENAL -->
 <h3 align="center">🛠️ Tech Arsenal & Tools</h3>
 
 <div align="center">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,python,js,ts,react,nodejs,cpp,c,git,docker,githubactions,firebase,linux&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,python,go,rust,js,ts,react,nodejs,cpp,c,git,docker,firebase,linux&perline=8" alt="Tech Stack" />
   </p>
 </div>
 
 <br>
 
-<!-- 📊 LIVE GITHUB TELEMETRY & STREAK (AUTO-UPDATING) -->
+<!-- 📊 LIVE GITHUB TELEMETRY & STREAK (HIGH-UPTIME SERVERS) -->
 <h3 align="center">📊 Live GitHub Telemetry & Daily Streak</h3>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <br>
-      <a href="https://github.com/Suyash-coder-12">
-        <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Suyash-coder-12&show_icons=true&bg_color=f8fafc&title_color=0f172a&text_color=334155&icon_color=2563eb&border_color=cbd5e1&border_radius=12&include_all_commits=true&count_private=true" alt="Suyash GitHub Stats" />
-      </a>
-      <br><br>
-    </td>
-    <td align="center" width="50%">
-      <br>
-      <a href="https://github.com/Suyash-coder-12">
-        <img height="170px" src="https://streak-stats.demolab.com?user=Suyash-coder-12&background=f8fafc&border=cbd5e1&stroke=e2e8f0&ring=2563eb&fire=f59e0b&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=2563eb&sideLabels=475569&dates=64748b&border_radius=12" alt="Streak Stats" />
-      </a>
-      <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <br>
-      <a href="https://github.com/Suyash-coder-12">
-        <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyash-coder-12&layout=compact&langs_count=8&bg_color=f8fafc&title_color=0f172a&text_color=334155&border_color=cbd5e1&border_radius=12" alt="Top Languages" />
-      </a>
-      <br><br>
-    </td>
-    <td align="center" width="50%">
-      <br>
-      <a href="https://github.com/Suyash-coder-12">
-        <img height="165px" src="https://github-readme-activity-graph.vercel.app/graph?username=Suyash-coder-12&bg_color=f8fafc&color=0f172a&line=2563eb&point=f59e0b&area=true&hide_border=false&border_color=cbd5e1&radius=12" alt="Contribution Graph" />
-      </a>
-      <br><br>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suyash-coder-12&theme=slate" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img width="100%" src="https://streak-stats.demolab.com/?user=Suyash-coder-12&theme=slate&hide_border=true&border_radius=10" alt="Streak Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suyash-coder-12&theme=slate" alt="Top Languages" />
+      </td>
+      <td align="center" width="50%">
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Suyash-coder-12&theme=slate" alt="Commit Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
-<!-- 🐍 DAILY AUTO-UPDATING CONTRIBUTION SNAKE -->
-<h3 align="center">🐍 Daily Contribution Grid</h3>
+<!-- 📈 REAL-TIME ACTIVITY GRAPH -->
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suyash-coder-12&bg_color=0f172a&color=f8fafc&line=38bdf8&point=f59e0b&area=true&hide_border=true&radius=12" alt="Real-time Activity Graph" />
+</div>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <br>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suyash-coder-12/Suyash-coder-12/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suyash-coder-12/Suyash-coder-12/output/github-contribution-grid-snake.svg">
-        <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Suyash-coder-12/Suyash-coder-12/output/github-contribution-grid-snake.svg" width="98%">
-      </picture>
-      <br><br>
-    </td>
-  </tr>
-</table>
+<br>
+
+<!-- 🟩 INSTANT LIVE CONTRIBUTION CALENDAR (NO ACTION NEEDED) -->
+<h3 align="center">🟩 Daily Contribution Matrix (Live Auto-Update)</h3>
+
+<div align="center">
+  <img width="95%" src="https://ghchart.rshah.org/2563eb/Suyash-coder-12" alt="Suyash's Live GitHub Contribution Chart" />
+</div>
+
+<br>
 
 <!-- 🌊 FOOTER WAVE -->
 <div align="center">
