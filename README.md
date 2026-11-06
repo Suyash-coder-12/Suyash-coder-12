@@ -5,7 +5,7 @@
 
   <!-- 🚀 ANIMATED GREETING -->
   <h1 align="center">
-    Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" height="35">, I'm Suyash Rathod
+    Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="" width="35" height="35">, I'm Suyash Rathod
   </h1>
 
   <!-- ⌨️ FROSTED SLATE TYPING ANIMATION -->
@@ -40,17 +40,17 @@
 <table align="center" width="100%">
   <tr>
     <td colspan="2" align="center">
-      <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="30" height="30"> Engineering Focus & Architecture</h3>
+      <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="" width="30" height="30"> Engineering Focus & Architecture</h3>
     </td>
   </tr>
   <tr>
     <td width="65%" valign="middle">
       <ul>
-        <li>📱 <b>Mobile Engineering:</b> Crafting high-performance native Android experiences using <b>Kotlin, Jetpack Compose, and Clean Architecture</b>.</li>
-        <li>🤖 <b>AI & DevOps:</b> Architecting <b>MLOps pipelines, containerized environments (Docker), and Local-first LLM/RAG systems</b>.</li>
-        <li>💼 <b>Product Leadership:</b> Founder & Executive Director at <b>BeatsVibe Technologies</b>, driving EdTech & scalable solutions.</li>
-        <li>⚡ <b>Systems Backend:</b> Building robust CLI tools and backend microservices with <b>Go, Python, and Node.js</b>.</li>
-        <li>📫 <b>Collab & Connect:</b> Always open for open-source AI contributions. Hit me up on socials!</li>
+        <li> <b>Mobile Engineering:</b> Crafting high-performance native Android experiences using <b>Kotlin, Jetpack Compose, and Clean Architecture</b>.</li>
+        <li> <b>AI & DevOps:</b> Architecting <b>MLOps pipelines, containerized environments (Docker), and Local-first LLM/RAG systems</b>.</li>
+        <li> <b>Product Leadership:</b> Founder & Executive Director at <b>BeatsVibe Technologies</b>, driving EdTech & scalable solutions.</li>
+        <li> <b>Systems Backend:</b> Building robust CLI tools and backend microservices with <b>Go, Python, and Node.js</b>.</li>
+        <li> <b>Collab & Connect:</b> Always open for open-source AI contributions. Hit me up on socials!</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -62,7 +62,7 @@
 <br>
 
 <!-- 🧊 MASSIVE TECH ARSENAL (BHAR BHARKE SKILLS) -->
-<h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="28" height="28"> Massive Tech Arsenal & Tools</h3>
+<h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="" width="28" height="28"> Massive Tech Arsenal & Tools</h3>
 
 <div align="center">
   <p align="center">
@@ -76,12 +76,12 @@
 <table align="center" width="100%">
   <tr>
     <th width="100%" align="center" colspan="2">
-      <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="30" height="30"> Shipped Products & Agentic AI</h3>
+      <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="" width="30" height="30"> Shipped Products & Agentic AI</h3>
     </th>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <b>🧠 AI & Systems Core</b>
+      <b> AI & Systems Core</b>
       <ul>
         <li><b>YANTRA:</b> Autonomous multi-modal agentic AI assistant.</li>
         <li><b>SwarAI:</b> Audio processing engine (Go backend, Gemini AI, PHP/JS).</li>
@@ -102,7 +102,7 @@
 <br>
 
 <!-- 🟩 INSTANT LIVE CONTRIBUTION CALENDAR -->
-<h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="28" height="28"> Daily Contribution Matrix</h3>
+<h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="" width="28" height="28"> Daily Contribution Matrix</h3>
 
 <table align="center" width="100%">
   <tr>
