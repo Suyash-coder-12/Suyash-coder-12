@@ -5,7 +5,7 @@
 
   <!-- 🚀 ANIMATED GREETING -->
   <h1 align="center">
-    Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="" width="35" height="35">, I'm Suyash Rathod
+    Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" height="35">, I'm Suyash Rathod
   </h1>
 
   <!-- ⌨️ FROSTED SLATE TYPING ANIMATION -->
@@ -26,8 +26,11 @@
     <a href="https://www.instagram.com/suyashhhh______">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=f8fafc&color=e2e8f0" height="30" alt="Instagram" />
     </a>
-    <a href="https://github.com/Suyash-coder-12">
+    <a href="https://github.com/Suyash-coder-12?tab=followers">
       <img src="https://img.shields.io/github/followers/Suyash-coder-12?style=for-the-badge&logo=github&logoColor=0f172a&label=Followers&labelColor=f8fafc&color=cbd5e1" height="30" alt="GitHub Followers" />
+    </a>
+    <a href="https://github.com/Suyash-coder-12?tab=repositories">
+      <img src="https://img.shields.io/github/stars/Suyash-coder-12?style=for-the-badge&logo=github&logoColor=f59e0b&label=Stars&labelColor=f8fafc&color=cbd5e1" height="30" alt="GitHub Stars" />
     </a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Suyash-coder-12.Suyash-coder-12&left_color=%23f8fafc&right_color=%2394a3b8&left_text=Views" height="30" alt="Profile Views" />
   </p>
@@ -40,17 +43,17 @@
 <table align="center" width="100%">
   <tr>
     <td colspan="2" align="center">
-      <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="" width="30" height="30"> Engineering Focus & Architecture</h3>
+      <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="30" height="30"> Engineering Focus & Architecture</h3>
     </td>
   </tr>
   <tr>
     <td width="65%" valign="middle">
       <ul>
-        <li> <b>Mobile Engineering:</b> Crafting high-performance native Android experiences using <b>Kotlin, Jetpack Compose, and Clean Architecture</b>.</li>
-        <li> <b>AI & DevOps:</b> Architecting <b>MLOps pipelines, containerized environments (Docker), and Local-first LLM/RAG systems</b>.</li>
-        <li> <b>Product Leadership:</b> Founder & Executive Director at <b>BeatsVibe Technologies</b>, driving EdTech & scalable solutions.</li>
-        <li> <b>Systems Backend:</b> Building robust CLI tools and backend microservices with <b>Go, Python, and Node.js</b>.</li>
-        <li> <b>Collab & Connect:</b> Always open for open-source AI contributions. Hit me up on socials!</li>
+        <li>📱 <b>Mobile Engineering:</b> Crafting high-performance native Android experiences using <b>Kotlin, Jetpack Compose, and Clean Architecture</b>.</li>
+        <li>🤖 <b>AI & DevOps:</b> Architecting <b>MLOps pipelines, containerized environments (Docker), and Local-first LLM/RAG systems</b>.</li>
+        <li>💼 <b>Product Leadership:</b> Founder & Executive Director at <b>BeatsVibe Technologies</b>, driving EdTech & scalable solutions.</li>
+        <li>⚡ <b>Systems Backend:</b> Building robust CLI tools and backend microservices with <b>Go, Python, and Node.js</b>.</li>
+        <li>📫 <b>Collab & Connect:</b> Always open for open-source AI contributions. Hit me up on socials!</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -62,7 +65,7 @@
 <br>
 
 <!-- 🧊 MASSIVE TECH ARSENAL (BHAR BHARKE SKILLS) -->
-<h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="" width="28" height="28"> Massive Tech Arsenal & Tools</h3>
+<h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="28" height="28"> Massive Tech Arsenal & Tools</h3>
 
 <div align="center">
   <p align="center">
@@ -76,12 +79,12 @@
 <table align="center" width="100%">
   <tr>
     <th width="100%" align="center" colspan="2">
-      <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="" width="30" height="30"> Shipped Products & Agentic AI</h3>
+      <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="30" height="30"> Shipped Products & Agentic AI</h3>
     </th>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <b> AI & Systems Core</b>
+      <b>🧠 AI & Systems Core</b>
       <ul>
         <li><b>YANTRA:</b> Autonomous multi-modal agentic AI assistant.</li>
         <li><b>SwarAI:</b> Audio processing engine (Go backend, Gemini AI, PHP/JS).</li>
@@ -101,14 +104,22 @@
 
 <br>
 
-<!-- 🟩 INSTANT LIVE CONTRIBUTION CALENDAR -->
-<h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="" width="28" height="28"> Daily Contribution Matrix</h3>
+<!-- 🔥 WHITE GLASSMORPHIC STREAK & CONTRIBUTION MATRIX -->
+<h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="28" height="28"> Daily Streak & Contribution Matrix</h3>
 
 <table align="center" width="100%">
   <tr>
     <td align="center">
       <br>
+      <!-- STREAK CARD (WITH GAP MERGER & CACHE BUSTER) -->
+      <a href="https://github.com/Suyash-coder-12">
+        <img width="65%" src="https://streak-stats.demolab.com/?user=Suyash-coder-12&background=f8fafc&border=e2e8f0&stroke=cbd5e1&ring=2563eb&fire=0284c7&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=475569&sideLabels=475569&dates=64748b&border_radius=14&exclude_days=Sun,Sat&v=3" alt="Suyash Daily Streak" />
+      </a>
+      <br><br>
+      <!-- LIVE CONTRIBUTION CALENDAR -->
       <img width="96%" src="https://ghchart.rshah.org/2563eb/Suyash-coder-12" alt="Suyash's Live GitHub Contribution Chart" />
+      <br><br>
+      <sub><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="16" height="16"> <i>Live 365-day contribution heatmap — automatically updates with every commit</i></sub>
       <br><br>
     </td>
   </tr>
